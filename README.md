@@ -15,9 +15,7 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ikkabir24&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+<img src="https://github-readme-streak-stats-z65j.vercel.app?user=ikkabir24&theme=graywhite&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 ---
 
@@ -72,5 +70,8 @@ I am a passionate developer focused on creating interactive and user-friendly we
   </a>
   <a href="https://x.com/ikkabir24">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://github.com/ikkabir24">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
