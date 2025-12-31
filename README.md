@@ -54,7 +54,7 @@ I am a passionate developer focused on creating interactive and user-friendly we
 
 ---
 
-###📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="left">
   <p>
