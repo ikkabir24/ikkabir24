@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  📍 Rajshahi, Bangladesh &nbsp; | &nbsp; 📧 <a href="mailto:your-email@example.com">ikkabir24@yahoo.com</a> &nbsp; | &nbsp; 📞 +8801890995309
+  📍 Rajshahi, Bangladesh &nbsp; | &nbsp; 📧 <a href="mailto:ikkabir24@yahoo.com">ikkabir24@yahoo.com</a> &nbsp; | &nbsp; 📞 <a href="tel:+8801890995309">+880 1890-995309</a>
 
 </div>
 
@@ -54,24 +54,24 @@ I am a passionate developer focused on creating interactive and user-friendly we
 
 ---
 
-### 📊 GitHub Analytics
+###📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=radical" alt="Top Languages" />
-
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=radical" alt="GitHub Streak" />
+<div align="left">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ikkabir24&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikkabir24&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  </p>
 </div>
 
 ---
 
 ### 🤝 Connect with me
-<p align="center">
+<p>
+  <a href="https://facebook.com/ikkabir24">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
   <a href="https://linkedin.com/in/ikkabir24">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
