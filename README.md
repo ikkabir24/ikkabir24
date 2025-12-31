@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" alt="Banner" width="100%"/>
+  <p align="center"><a><img width="80%" alt="Hello, I'm Kabir. I am a MERN Stack Developer." src="20251231_040202.jpg" /></a></p>
 </div>
 
 <h1 align="center">Hi there, I'm Md Khairul Kabir</h1>
@@ -73,7 +73,7 @@ I am a passionate developer focused on creating interactive and user-friendly we
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://linkedin.com/in/ikkabir24">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ikkabir24">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
