@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-streak-stats-z65j.vercel.app?user=ikkabir24&theme=graywhite&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img align="center" src="https://github-readme-streak-stats-z65j.vercel.app?user=ikkabir24&theme=graywhite&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 ---
 
