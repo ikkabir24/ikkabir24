@@ -73,7 +73,4 @@ I am a passionate developer focused on creating interactive and user-friendly we
   <a href="https://x.com/ikkabir24">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
-  <a href="https://github.com/ikkabir24">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
