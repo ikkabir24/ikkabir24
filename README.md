@@ -13,6 +13,14 @@
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=ikkabir24&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 I am a passionate developer focused on creating interactive and user-friendly web experiences. I have a strong foundation in web technologies and a keen eye for design. I love solving complex problems and turning ideas into reality through code. When I'm not coding, I am exploring new tech trends or contributing to open-source projects.
 
@@ -51,19 +59,6 @@ I am a passionate developer focused on creating interactive and user-friendly we
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="left">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ikkabir24&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikkabir24&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-  </p>
-</div>
 
 ---
 
